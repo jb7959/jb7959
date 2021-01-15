@@ -1,8 +1,5 @@
 ### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=jb7959)
 [![jb7959's github stats](https://github-readme-stats.vercel.app/api?username=jb7959&count_private=true)](https://github.com/jb7959/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jb7959&layout=compact&exclude_repo=github-readme-stats,jb7959.github.io))](https://github.com/jb7959/github-readme-stats)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjb7959%2Fhit-counter&count_bg=%233D6EC8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
