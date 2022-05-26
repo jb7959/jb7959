@@ -6,7 +6,7 @@ Hi there! </br>
 I’m software developer working with Micro service architecture.</br>
 Usable Main Language : Java, JavaScript, TypeScript</br>
 Usable Main Framework : Spring boot&cloud, node.js, Restlet, express</br>
-I like inter-connecting system for collaboration such as Web Service, Open API, WebRTC </br>
+I like inter-connecting systems for collaboration such as Web Service, Open API, WebRTC </br>
   
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaeyeoul-ahn-a01626108)
 [![blog](https://img.shields.io/badge/doublem.org-003E95?style=flat-square&logo=blogger&logoColor=white)](https://doublem.org)
