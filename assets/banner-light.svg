@@ -1,46 +1,33 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Jaeyeoul Ahn, Backend Engineer">
-<defs>
-<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3f6fa"/></linearGradient>
-<clipPath id="area"><rect x="815" y="90" width="330" height="224"/></clipPath>
-</defs>
-<style>
-@keyframes scan { from { transform: translateX(0) } to { transform: translateX(330px) } }
-.scan { animation: scan 6s linear infinite; }
-@media (prefers-reduced-motion: reduce) { .scan { animation: none; opacity: 0 } }
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Jaeyeoul Ahn. Building the Other, listening to desire.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f3f6fa"/></linearGradient></defs>
 <rect x="0.5" y="0.5" width="1199" height="339" rx="16" fill="url(#bg)" stroke="#d1d9e0"/>
-<text x="64" y="150" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#1f2328">Jaeyeoul Ahn</text>
-<text x="66" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" fill="#59636e">Backend Engineer</text>
-<rect x="64" y="226" width="64" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
-<text x="96.0" y="248" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">MSA</text>
-<rect x="138" y="226" width="196" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
-<text x="236.0" y="248" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">Distributed systems</text>
-<rect x="344" y="226" width="148" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
-<text x="418.0" y="248" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">Observability</text>
-<rect x="502" y="226" width="92" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
-<text x="548.0" y="248" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">LLMOps</text>
-<text x="650" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#59636e">trace · GET /products</text>
-<text x="1145" y="76" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" fill="#59636e">38 ms</text>
-<line x1="815.0" y1="90" x2="815.0" y2="314" stroke="#e6ebf1" stroke-width="1"/>
-<line x1="897.5" y1="90" x2="897.5" y2="314" stroke="#e6ebf1" stroke-width="1"/>
-<line x1="980.0" y1="90" x2="980.0" y2="314" stroke="#e6ebf1" stroke-width="1"/>
-<line x1="1062.5" y1="90" x2="1062.5" y2="314" stroke="#e6ebf1" stroke-width="1"/>
-<line x1="1145.0" y1="90" x2="1145.0" y2="314" stroke="#e6ebf1" stroke-width="1"/>
-<text x="650" y="109" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">gateway</text>
-<rect x="815.0" y="97" width="330.0" height="14" rx="4" fill="#0969da" fill-opacity="0.85"/>
-<text x="664" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">bff</text>
-<rect x="824.9" y="124" width="300.3" height="14" rx="4" fill="#0969da" fill-opacity="0.85"/>
-<text x="678" y="163" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">cache.get</text>
-<rect x="834.8" y="151" width="19.8" height="14" rx="4" fill="#1a7f37" fill-opacity="0.85"/>
-<text x="678" y="190" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">catalog-svc</text>
-<rect x="861.2" y="178" width="171.6" height="14" rx="4" fill="#8250df" fill-opacity="0.85"/>
-<text x="692" y="217" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">db.query</text>
-<rect x="877.7" y="205" width="92.4" height="14" rx="4" fill="#bc4c00" fill-opacity="0.85"/>
-<text x="678" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">ranking-svc</text>
-<rect x="861.2" y="232" width="145.2" height="14" rx="4" fill="#8250df" fill-opacity="0.85"/>
-<text x="692" y="271" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">redis.zrange</text>
-<rect x="874.4" y="259" width="42.9" height="14" rx="4" fill="#1a7f37" fill-opacity="0.85"/>
-<text x="664" y="298" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#1f2328">compose</text>
-<rect x="1046.0" y="286" width="66.0" height="14" rx="4" fill="#0969da" fill-opacity="0.85"/>
-<g clip-path="url(#area)"><rect class="scan" x="815" y="90" width="2" height="224" fill="#0969da" opacity="0.55"/></g>
+<style>@keyframes pulse { 0%,100% { opacity: .6 } 50% { opacity: 1 } }.a { animation: pulse 4s ease-in-out infinite }@media (prefers-reduced-motion: reduce) { .a { animation: none } }</style>
+<text x="64" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#1f2328">Jaeyeoul Ahn</text>
+<text x="66" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="23" fill="#1f2328">Building the Other, listening to desire.</text>
+<text x="66" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="17" fill="#59636e">대타자를 만드는 엔지니어, 욕망을 읽는 분석가</text>
+<rect x="64" y="228" width="104" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
+<text x="116.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">AI Agents</text>
+<rect x="178" y="228" width="104" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
+<text x="230.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">The Other</text>
+<rect x="292" y="228" width="80" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
+<text x="332.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">Desire</text>
+<rect x="382" y="228" width="64" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
+<text x="414.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">Lack</text>
+<rect x="456" y="228" width="122" height="34" rx="17" fill="#eef3f9" stroke="#d1d9e0"/>
+<text x="517.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">Unconscious</text>
+<circle cx="978.30" cy="193.00" r="78" fill="none" stroke="#f9fafc" stroke-width="16"/>
+<circle cx="978.30" cy="193.00" r="78" fill="none" stroke="#bc4c00" stroke-width="8"/>
+<circle cx="891.70" cy="193.00" r="78" fill="none" stroke="#f9fafc" stroke-width="16"/>
+<circle cx="891.70" cy="193.00" r="78" fill="none" stroke="#8250df" stroke-width="8"/>
+<circle cx="935.00" cy="118.00" r="78" fill="none" stroke="#f9fafc" stroke-width="16"/>
+<circle cx="935.00" cy="118.00" r="78" fill="none" stroke="#0969da" stroke-width="8"/>
+<path d="M901.49,206.59 A78,78 0 0 1 903.90,169.58" fill="none" stroke="#f9fafc" stroke-width="16"/>
+<path d="M902.45,211.17 A78,78 0 0 1 905.44,165.16" fill="none" stroke="#bc4c00" stroke-width="8"/>
+<path d="M995.22,116.86 A78,78 0 0 1 1028.47,133.28" fill="none" stroke="#f9fafc" stroke-width="16"/>
+<path d="M990.62,115.98 A78,78 0 0 1 1031.96,136.39" fill="none" stroke="#bc4c00" stroke-width="8"/>
+<text x="935.0" y="85.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#0969da">S</text>
+<text x="855.3" y="223.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#8250df">I</text>
+<text x="1014.7" y="223.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#bc4c00">R</text>
+<text class="a" x="935" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#bf3989">a</text>
+<text x="935" y="326" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#59636e">Real · Symbolic · Imaginary — objet a</text>
 </svg>
