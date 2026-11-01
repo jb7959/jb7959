@@ -46,6 +46,8 @@ AI 에이전트와 그 뒤의 백엔드 시스템을 만들고, 정신분석가�
 - What does a user demand of an agent, and what do they desire? · 사용자는 에이전트에게 무엇을 요구하고, 무엇을 욕망하는가?
 - In front of a machine that answers everything, where does lack go? · 모든 것에 답하는 기계 앞에서, 결여는 어디로 가는가?
 
+📓 Working notes · 작업 노트: **[the-other-in-the-machine](https://github.com/jb7959/the-other-in-the-machine)**: concept notes, questions and essays · 개념 노트, 질문, 에세이
+
 ### Building · 만드는 쪽
 
 Backend engineer: microservices, JVM concurrency and caching, observability, and LLMOps (agent tracing and evaluation).<br>
