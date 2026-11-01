@@ -1,33 +1,25 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="Jaeyeoul Ahn. Building the Other, listening to desire.">
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b23"/></linearGradient></defs>
-<rect x="0.5" y="0.5" width="1199" height="339" rx="16" fill="url(#bg)" stroke="#30363d"/>
-<style>@keyframes pulse { 0%,100% { opacity: .6 } 50% { opacity: 1 } }.a { animation: pulse 4s ease-in-out infinite }@media (prefers-reduced-motion: reduce) { .a { animation: none } }</style>
-<text x="64" y="118" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#e6edf3">Jaeyeoul Ahn</text>
-<text x="66" y="160" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="23" fill="#e6edf3">Building the Other, listening to desire.</text>
-<text x="66" y="192" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="17" fill="#9198a1">대타자를 만드는 엔지니어, 욕망을 읽는 분석가</text>
-<rect x="64" y="228" width="104" height="34" rx="17" fill="#1c2330" stroke="#30363d"/>
-<text x="116.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">AI Agents</text>
-<rect x="178" y="228" width="104" height="34" rx="17" fill="#1c2330" stroke="#30363d"/>
-<text x="230.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">The Other</text>
-<rect x="292" y="228" width="80" height="34" rx="17" fill="#1c2330" stroke="#30363d"/>
-<text x="332.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Desire</text>
-<rect x="382" y="228" width="64" height="34" rx="17" fill="#1c2330" stroke="#30363d"/>
-<text x="414.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Lack</text>
-<rect x="456" y="228" width="122" height="34" rx="17" fill="#1c2330" stroke="#30363d"/>
-<text x="517.0" y="250" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3">Unconscious</text>
-<circle cx="978.30" cy="193.00" r="78" fill="none" stroke="#11161d" stroke-width="16"/>
-<circle cx="978.30" cy="193.00" r="78" fill="none" stroke="#db6d28" stroke-width="8"/>
-<circle cx="891.70" cy="193.00" r="78" fill="none" stroke="#11161d" stroke-width="16"/>
-<circle cx="891.70" cy="193.00" r="78" fill="none" stroke="#ab7df8" stroke-width="8"/>
-<circle cx="935.00" cy="118.00" r="78" fill="none" stroke="#11161d" stroke-width="16"/>
-<circle cx="935.00" cy="118.00" r="78" fill="none" stroke="#4493f8" stroke-width="8"/>
-<path d="M901.49,206.59 A78,78 0 0 1 903.90,169.58" fill="none" stroke="#11161d" stroke-width="16"/>
-<path d="M902.45,211.17 A78,78 0 0 1 905.44,165.16" fill="none" stroke="#db6d28" stroke-width="8"/>
-<path d="M995.22,116.86 A78,78 0 0 1 1028.47,133.28" fill="none" stroke="#11161d" stroke-width="16"/>
-<path d="M990.62,115.98 A78,78 0 0 1 1031.96,136.39" fill="none" stroke="#db6d28" stroke-width="8"/>
-<text x="935.0" y="85.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#4493f8">S</text>
-<text x="855.3" y="223.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#ab7df8">I</text>
-<text x="1014.7" y="223.0" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-weight="700" fill="#db6d28">R</text>
-<text class="a" x="935" y="176" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="26" font-style="italic" fill="#f778ba">a</text>
-<text x="935" y="326" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" fill="#9198a1">Real · Symbolic · Imaginary — objet a</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" width="1200" height="330" role="img" aria-label="Jaeyeoul Ahn, AI agent engineer and psychoanalysis researcher. Building AI agents for the gap between what users ask and what they want.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#151b23"/></linearGradient><marker id="head" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#9198a1"/></marker></defs>
+<style>@media (prefers-reduced-motion: reduce) { .move { display: none } }</style>
+<rect x="0.5" y="0.5" width="1199" height="329" rx="16" fill="url(#bg)" stroke="#30363d"/>
+<text x="64" y="110" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="52" fill="#e6edf3" font-weight="700">Jaeyeoul Ahn</text>
+<text x="66" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="19" fill="#9198a1">AI Agent Engineer · Psychoanalysis Researcher</text>
+<text x="66" y="206" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="27" fill="#e6edf3" font-weight="600">Building AI agents for the gap</text>
+<text x="66" y="240" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="27" fill="#e6edf3" font-weight="600">between what users ask and what they want.</text>
+<text x="66" y="280" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="17" fill="#9198a1">요구와 욕망 사이의 틈을 다루는 AI 에이전트를 만듭니다</text>
+<rect x="700" y="104" width="130" height="92" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="765.0" y="152.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3" font-weight="700" text-anchor="middle">User</text>
+<text x="765.0" y="174.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1" text-anchor="middle">사용자</text>
+<rect x="1010" y="104" width="130" height="92" rx="12" fill="#161b22" stroke="#30363d" stroke-width="1.5"/>
+<text x="1075.0" y="152.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="20" fill="#e6edf3" font-weight="700" text-anchor="middle">Agent</text>
+<text x="1075.0" y="174.0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1" text-anchor="middle">에이전트</text>
+<line x1="832" y1="130" x2="1006" y2="130" stroke="#9198a1" stroke-width="2" marker-end="url(#head)"/>
+<text x="919" y="120" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3" text-anchor="middle">asks</text>
+<line x1="1008" y1="172" x2="874" y2="172" stroke="#9198a1" stroke-width="2" marker-end="url(#head)"/>
+<text x="941" y="196" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="15" fill="#e6edf3" text-anchor="middle">answers</text>
+<rect x="834" y="161" width="36" height="22" rx="6" fill="none" stroke="#f778ba" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="852" y1="185" x2="852" y2="232" stroke="#f778ba" stroke-width="1.5"/>
+<text x="852" y="254" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="16" fill="#f778ba" font-weight="700" text-anchor="middle">what they want</text>
+<text x="852" y="276" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Apple SD Gothic Neo', 'Malgun Gothic', 'Noto Sans KR', Helvetica, Arial, sans-serif" font-size="13" fill="#9198a1" text-anchor="middle">원하는 것</text>
+<circle class="move" r="5.5" fill="#f778ba"><animateMotion dur="5s" repeatCount="indefinite" path="M834,130 L1004,130 L1010,130 L1010,172 L1004,172 L874,172"/></circle>
 </svg>
